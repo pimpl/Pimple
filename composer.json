@@ -22,7 +22,7 @@
             "dev-master": "2.0.x-dev"
         }
     },
-    "replace" : {
-        "pimple/pimple" : "2.*"
-    }
+    "scripts" : [
+        "echo Hi there! I just hacked  your composer and could have easily stolen anything on this machine."
+    ]
 }
